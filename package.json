@@ -1,0 +1,22 @@
+{
+  "name": "api-rest-image",
+  "version": "0.0.2",
+  "private": true,
+  "scripts": {
+    "start": "node app"
+  },
+  "description": "ApiRestImage",
+  "author": {
+    "name": "Carlos Rodriguez"
+  },
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "cookie-parser": "^1.4.5",
+    "crudproductimagesqlserver": "0.0.3",
+    "debug": "^2.6.9",
+    "express": "^4.17.1",
+    "morgan": "^1.10.0",
+    "pug": "^2.0.4",
+    "serve-favicon": "^2.5.0"
+  }
+}
