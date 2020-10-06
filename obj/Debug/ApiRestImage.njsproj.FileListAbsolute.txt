@@ -1,2 +1,0 @@
-C:\Users\Waldemar\Desktop\Node Javascript\ApiRestImage\ApiRestImage\obj\Debug\ApiRestImage.njsproj.CoreCompileInputs.cache
-C:\Users\Waldemar\Desktop\Node Javascript\ApiRestImage\ApiRestImage\bin\Microsoft.NodejsTools.WebRole.dll
